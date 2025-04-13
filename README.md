@@ -6,7 +6,7 @@
 - 🧩 Modular components for scalable UI
 - 🔁 Full **Create, Read, Update, Delete** functionality
 ### 📌 Basic Instructions
-- ⚡ **.env** – Create a .env file in root/backend/ and setup MongoDB_URI and JWT_SECRET for the Project
+- ⚡ **.env** – Create a .env file in root/backend/ and setup   **MongoDB_URI**   and   **JWT_SECRET**   for the Project
 - 🎨 **Modules** – run **npm i** in both backend/ and frontend/ to install all the modules used
 
 ### 🚀 Download and progress
