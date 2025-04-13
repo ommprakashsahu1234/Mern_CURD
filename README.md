@@ -5,7 +5,7 @@
 - 🎨 **Framer Motion** – smooth, intuitive animations
 - 🧩 Modular components for scalable UI
 - 🔁 Full **Create, Read, Update, Delete** functionality
-### 🚀 Live Demo: [Click Here](http://localhost:5173/)
+### 🚀 Download and have a Trial.
 ---
 | Frontend | Backend   | Database | Tools                     |
 |----------|-----------|----------|---------------------------|
